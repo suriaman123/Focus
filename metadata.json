@@ -1,0 +1,6 @@
+{
+  "name": "Kanso Focus",
+  "description": "An aesthetic sanctuary for deep focus. Nurture daily eggs into serene companion pets, build lasting concentration, and expand your sanctuary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
